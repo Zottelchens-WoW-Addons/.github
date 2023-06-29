@@ -1,6 +1,6 @@
 # Zottelchens WoW Addons
 
-Hi, I am Zottelchen and I write WoW Addons. Mostly I am known for writing filters for the addon AdiBags - these are not the bag addon themselves, but filters for it. You can download them from Curseforge, Wago & GitHub. 💌
+Hi, I am Zottelchen and I write WoW Addons. Mostly I am known for writing filters for the addon AdiBags - these are not the bag addon themselves, but filters for it. You can download them from Curseforge, Wago Addons & GitHub. 💌
 
 | Expansion              |                                                                                |                                                                          |
 |------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------|
